@@ -17,4 +17,5 @@ kubectl delete all --all --namespace voting-app
 ```
 
 Voting App: <http://localhost:31000>
+
 Results App: <http://localhost:31001>
